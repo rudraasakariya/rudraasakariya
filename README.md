@@ -26,7 +26,7 @@ Hello 👋<br><br>Welcome to my GitHub , I am rudraasakariya<br><br>"I'm a colle
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudraasakariya/rudraasakariya/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudraasakariya/rudraasakariya/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rudraasakariya/rudraasakariya/output/github-contribution-grid-snake.svg />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rudraasakariya/rudraasakariya/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ### Recently Played Spotify
