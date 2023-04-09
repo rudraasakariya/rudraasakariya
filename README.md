@@ -20,7 +20,7 @@ Hello 👋<br><br>Welcome to my GitHub , I am rudraasakariya<br><br>"I'm a colle
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rudraasakariya/rudraasakariya/384de513f7d64161d8d271dcd5535e166c44de6b/snake-game.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rudraasakariya/rudraasakariya/876f2063aceb29cd021cf3ae460313604bad6384/snake-game.svg" alt="Snake animation" />
 
 ### Recently Played Spotify
 
