@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello 👋<br><br>Welcome to my GitHub , I am rudraasakariya<br><br>"I'm a college student who loves to code and work on innovative projects. I enjoy using Node.js for my projects, but I'm always eager to learn and try out new technologies."<br><br><br>🔭 I’m currently working on my final year project "SPARSH"<br>👯 I’m looking to collaborate on open source prjects<br>🌱 I’m currently learning TypeScript , NextJS and a few more<br><br><br>
+Hello 👋<br><br>Welcome to my GitHub , I am Rudraraj Sakariya<br><br>"I'm a college student who loves to code and work on innovative projects. I enjoy using Node.js for my projects, but I'm always eager to learn and try out new technologies."<br><br><br>🔭 I’m currently working on my final year project "SPARSH"<br>👯 I’m looking to collaborate on open source prjects<br>🌱 I’m currently learning TypeScript , NextJS and a few more<br><br><br>
 
 ## 🌐 Socials:
 
